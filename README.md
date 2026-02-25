@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bb1af58 (initial commit)
 # Test Automation of Banking Project – Guru99
 
 ![Python](https://img.shields.io/badge/Python-blue)
@@ -226,6 +229,9 @@ Arun Kumar
 * Guru99 Banking Demo Application
 * Selenium Official Documentation
 * Python Official Documentation
+<<<<<<< HEAD
 =======
 # Selenium-Testing-Automation
 >>>>>>> ae6ce3ca2dc30d7eb83da28f0985c254edf7c5af
+=======
+>>>>>>> bb1af58 (initial commit)
