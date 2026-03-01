@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> bb1af58 (initial commit)
 # Test Automation of Banking Project – Guru99
 
 ![Python](https://img.shields.io/badge/Python-blue)
@@ -95,7 +91,7 @@ The following banking modules were automated:
 ## Project Structure
 
 ```id="yl05bn"
-Selenium-Python-Automation/
+Selenium-Testing-Automation/
 │
 ├── Account/
 │   ├── newAccount.py
@@ -182,17 +178,17 @@ pytest
 
 ## Challenges Faced and Solutions
 
-Challenge: Difficulty locating correct web elements
-Solution: Used browser developer tools to inspect element attributes
+**Challenge:** Difficulty locating correct web elements  
+**Solution:** Used browser developer tools to inspect element attributes  
 
-Challenge: Handling browser alerts
-Solution: Used WebDriverWait with Expected Conditions to handle alerts properly
+**Challenge:** Handling browser alerts  
+**Solution:** Used WebDriverWait with Expected Conditions to handle alerts properly  
 
-Challenge: WebDriver configuration issues
-Solution: Installed and configured GeckoDriver correctly
+**Challenge:** WebDriver configuration issues  
+**Solution:** Installed and configured GeckoDriver correctly  
 
-Challenge: Code repetition
-Solution: Created reusable methods to improve code maintainability
+**Challenge:** Code repetition  
+**Solution:** Created reusable methods to improve code maintainability  
 
 ---
 
@@ -229,9 +225,6 @@ Arun Kumar
 * Guru99 Banking Demo Application
 * Selenium Official Documentation
 * Python Official Documentation
-<<<<<<< HEAD
-=======
+
 # Selenium-Testing-Automation
->>>>>>> ae6ce3ca2dc30d7eb83da28f0985c254edf7c5af
-=======
->>>>>>> bb1af58 (initial commit)
+
